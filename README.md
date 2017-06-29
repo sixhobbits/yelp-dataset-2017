@@ -1,4 +1,4 @@
-# Yelp Dataset Challenge: Authorship Attribution and Keras Tutorials
+# Yelp Dataset Challenge: Our paper, tutorials, and blog posts
 
 This repository and related resources forms our submission to the 2017 Yelp Dataset Challenge. 
 
