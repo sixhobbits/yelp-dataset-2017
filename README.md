@@ -10,17 +10,12 @@ Most of our research is related to authorship attribution. That is, we attempt t
 
 Our submission consists therefore of the following:
 
-* For the academic community, we present a research paper in which we detail our experiments on different methods for authorship attribution tasks. We relate our experiments on the Yelp dataset to previous work done on Authorship Attribution, and provide the first results on new datasets that we created as subsets from Yelp reviews. We hope that others will use this data to compare future Authorship Attribution systems to ours.
+* For the academic community, we present [a research paper](https://github.com/sixhobbits/authorship-attribution/blob/master/Authorship%20Attribution%20Yelp%20Reviews.pdf) in which we detail our experiments on different methods for authorship attribution tasks. We relate our experiments on the Yelp dataset to previous work done on Authorship Attribution, and provide the first results on new datasets that we created as subsets from Yelp reviews. We hope that others will use this data to compare future Authorship Attribution systems to ours.
+* For those just starting out in their machine learning journey, we present [a tutorial](https://github.com/sixhobbits/authorship-attribution/blob/master/Yelp%20Reviews%20-%20Authorship%20Attribution.ipynb) that consists of runnable code and clear explanations in a Jupyter Notebook, showing how classification tasks work, and explaining each step. Note that although this tutorial shows a similar experiment to the ones discussed in the research paper, it uses a slightly different subset of the Yelp dataset where examples are broken down per review as well as by author. We also present [a blog post](http://www.developintelligence.com/blog/2017/03/predicting-yelp-star-ratings-review-text-python/) in which we show how to predict the rating of a review given its text.
+* For those who want to venture deeper into machine learning, we present a thorough [introduction to using Keras](http://www.developintelligence.com/blog/2017/06/practical-neural-networks-keras-classifying-yelp-reviews/). We again tackle the rating-prediction task, and show how to train Keras models using a powerful cloud GPU instance from AWS. We take a highly practical approach, and show how to package the resulting models and use them for real-world tasks after training.
+* For those who want to get started with data science and data visualisation, we present [another blog post](http://www.developintelligence.com/blog/2017/02/analyzing-4-million-yelp-reviews-python-aws-ec2-instance/) showing how to carry out basic analysis on the Yelp reviews using an AWS cloud machine. We look at how to create some basic plots with Matplotlib and (spoiler alert) find out that negative reviews tend to be longer than positive ones.
 
-* For those just starting out in their machine learning journey, we present runnable code and clear explanations in a Jupyter Notebook, showing how classification tasks work, and explaining each step. 
-* For the not-quite-beginner, we present an in-depth, practical tutorial, showing how to easily create neural models using Keras and run these on powerful cloud GPU machines through AWS.
+The code we used for the experiments in the paper can also be found in the other Jupyter Notebook files in this repository. However, these files are not well-strucutred nor well documented, and we do not recommend them as a learning experience. 
 
-## Research Paper
-
-
-
-## Beginner tutorial
-
-## Practical Keras tutorial
-
+We would like to thank Yelp and everyone involved in the Dataset challenge for providing this opportunity and dataset, with which we have a lot of fun over the last several months.
 
