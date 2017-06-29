@@ -1,6 +1,6 @@
 # Yelp Dataset Challenge: Our paper, tutorials, and blog posts
 
-This repository and related resources forms our submission to the 2017 Yelp Dataset Challenge. 
+This repository and related resources, to which we link below, forms our submission to the 2017 Yelp Dataset Challenge. 
 
 With new advances in machine learning and artificial intelligence, there has been a surge of talk about *Democratizing* AI. (For example, see [https://news.microsoft.com/features/democratizing-ai/](https://news.microsoft.com/features/democratizing-ai/)). It is important that everyone benefits from advances in this area, and not only huge corporations.
 
