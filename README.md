@@ -18,5 +18,5 @@ Specifically, our submission consists of the following:
 
 The code we used for the experiments in the paper can also be found in the other Jupyter Notebook files in this repository. However, these files are not well-strucutred nor well documented, and we do not recommend them as a learning experience. 
 
-We would like to thank Yelp and everyone involved in the Dataset challenge for providing this opportunity and dataset, with which we have a lot of fun over the last several months.
+We would like to thank Yelp and everyone involved in the Dataset challenge for providing this opportunity and dataset, with which we have had a lot of fun over the last several months.
 
